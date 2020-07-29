@@ -44,7 +44,7 @@ Some of the methods listed are provided to you in the starter code. You should c
 
 ### Initializers, Readers, and Writers
 
-#### Customer
+#### Customer 
 
 - `Customer#initialize`
   - Customer should be initialized with a given name and family name, both strings (i.e., first and last name, like George Washington)"
